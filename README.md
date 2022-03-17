@@ -1,11 +1,5 @@
-# espressif-creations
-Community Allocated Creation IDs for Espressif boards
+# lilygo-creations
+Community Allocated Creation IDs for LILYGO boards
 
-## `0x0032_xxxx` - ESP32 dev boards
-
-## `0x0052_xxxx` - S2 dev boards
-
-## `0x0053_xxxx` - S3 dev boards
-
-## `0x00C3_xxxx` - C3 dev boards
-*  `0x00C3_0001` ESP32-C3-DevKitM-1
+## `0x00C3_xxxx` - ESP32-C3 boards
+*  `0x00C3_0001` [TTGO T-01C3](https://github.com/Xinyuan-LilyGO/T-01C3)
